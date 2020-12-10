@@ -4,4 +4,8 @@
 
 a. ¿Qué atributos debe tener? ¿tipo de dato?
 
+r: 
+
 b. ¿Qué métodos debe tener? ¿tipo de retorno? ¿parámetros de entrada?
+
+r:
