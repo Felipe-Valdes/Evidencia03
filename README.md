@@ -12,7 +12,7 @@
 
 <img src="imagenes/Evidencia03-estructura-1.png" width="970" height="550" >
 
-<img src="imagenesEvidencia03-estructura-2.png" width="970" height="550" >
+<img src="imagenes/Evidencia03-estructura-2.png" width="970" height="550" >
 
 <img src="imagenes/Evidencia03-ejecuciónCompilación-Programa.png" width="970" height="550" >
 
